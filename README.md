@@ -126,3 +126,9 @@ Aplicación de seguridad que monitorea conexiones de red en tiempo real, desarro
 - Posibles falsos positivos/negativos
 - Rendimiento en sistemas con muchas conexiones
 - Dependencia de permisos UAC
+  
+## Por estas razones no lo coloco de codigo abierto:
+
+https://www.youtube.com/watch?v=hbbXzuLOyJ0
+
+https://www.youtube.com/watch?v=alfIxtD9CKM
