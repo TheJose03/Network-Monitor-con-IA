@@ -95,7 +95,7 @@ Aplicación de seguridad que monitorea conexiones de red en tiempo real, desarro
 ## Uso Básico
 1. Ejecutar como administrador
 2. Monitorear conexiones
-3. Revisar logs en `/logs/`
+3. Revisar los logs 
 4. Actualizar listas según sea necesario
 
 ## Seguridad
