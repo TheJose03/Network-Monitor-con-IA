@@ -1,0 +1,1 @@
+go build -ldflags="-s -w" -o network-monitor_Auto.exe network-monitor_Auto.go
