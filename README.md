@@ -11,6 +11,9 @@
 > 
 > **Puede interrumpir servicios críticos si la usas sin ser experto .**
 
+
+## SOLO OMITE LAS CONEXIONES DE MICROSOFT EDGE, es recomendable que uses este navegador, cuando usas la heraminta.
+
 ## Descripción General
 Aplicación de seguridad que monitorea conexiones de red en tiempo real, desarrollada en Go para Windows.
 
