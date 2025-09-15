@@ -2,14 +2,14 @@
 
 > **¡ADVERTENCIA IMPORTANTE!**
 > 
-> **La versión automática BLOQUEARÁ TODAS LAS CONEXIONES SOSPECHOSAS SIN PREGUNTAR.**
+> **La versión automática BLOQUEARÁ TODAS LAS CONEXIONES ESTABLECIDAS (ACTIVAS) SIN PREGUNTAR.**
 > 
 > **Solo para usuarios avanzados** con experiencia en:
 > - Configuración de firewalls
 > - Resolución de problemas de red
 > - Gestión de listas blancas/negras
 > 
-> **Puede interrumpir servicios críticos si no se configura correctamente.**
+> **Puede interrumpir servicios críticos si la usas sin ser experto .**
 
 ## Descripción General
 Aplicación de seguridad que monitorea conexiones de red en tiempo real, desarrollada en Go para Windows.
